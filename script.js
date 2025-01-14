@@ -9,10 +9,10 @@ const artistName = document.querySelector(".music-player p");
 
 const songs = [
   {
-    title: "Symphony",
-    name: "Clean Bandit ft. Zara Larsson",
+    title: "Sanam Teri Kasam",
+    name: "From Sanam Teri Kasam 2016",
     source:
-      "https://github.com/ecemgo/mini-samples-great-tricks/raw/main/song-list/Clean-Bandit-Symphony.mp3",
+      "https://www.jiosaavn.com/song/sanam-teri-kasam/GB4-dAV4WFs",
   },
   {
     title: "Pawn It All",
